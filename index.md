@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "King's College London"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "King's College London, Strand Campus, Virginia Woolf Building, Room VWB 2.50, 22 Kingsway, London WC2B 6LE"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "King's College London, Strand Campus, Bush House South East Wing, Room BH(SE) 1.01 (Jan. 9) and BH(SE) 6.04 (Jan. 10), 300, Strand, London WC2R 1AE"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "51.515003"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-0.117737"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "51.516498"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-0.098924"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "January 9-10, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-01-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
