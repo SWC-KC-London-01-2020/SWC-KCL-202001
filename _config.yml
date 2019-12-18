@@ -35,7 +35,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "SWC and LC Workshop @KCL: Introduction to Python"
+title: "SWC/LC Workshop: Introduction to Python"
 
 
 #------------------------------------------------------------
